@@ -1,4 +1,4 @@
-# Hi there 👋 I am Dennis Akagha
+# Hi there 👋 I am Dennis Akagha 
 - 🌱 I’m currently studying with **Microverse**
 - 💬 Ask me about **Js, Python, Dart, Flutter, HTML, CSS**
 - 📫 How to reach me: [Linkendin](https://www.linkedin.com/in/dennisakagha/), [Twitter](https://twitter.com/dennisakagha) 
