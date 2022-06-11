@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m a constant **Learner**
-- 💬 Ask me about **Js, Python, Dart, Flutter, HTML, CSS, Ruby, Ruby on Rails**
+- 💬 Ask me about **Js, React/Redux, Python, Dart, Flutter, HTML, CSS, Ruby, Ruby on Rails**
 - 📫 How to reach me: [Linkendin](https://www.linkedin.com/in/dennisakagha/), [Twitter](https://twitter.com/dennisakagha) 
 
 # My GitHub stats
