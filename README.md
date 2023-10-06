@@ -12,7 +12,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=denscholar&show_icons=true)
 
 # My Most used language
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=denscholar&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denscholar&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)](https://github.com/denscholar?tab=repositories)
 
 
 <!-- 
@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+ 
+<b>Visitor count</b>
+<br><img src="https://profile-counter.glitch.me/denscholar/count.svg" />
+</p>
